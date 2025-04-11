@@ -1,10 +1,11 @@
 ﻿1. la commande git status montre les fichier qui ont été modifié.
 
-2. la commande git status à afficher en rouge les fichiers qui ont été créer et en vert les fichiers qui ont été ajouter dans la staging area
+2. la commande git status à afficher en rouge les fichiers qui ont été créer et en vert les fichiers qui ont été ajouter dans la staging area.
 
-3. les ajouts sont partis dans la staging area c'est là où les fichiers on été ajouter mais pas changer en commit dans github
+3. les ajouts sont partis dans la staging area c'est là où les fichiers on été ajouter mais pas changer en commit dans github.
 
-5. git status et le fichier readme a disparu car il est devenu un commit
+5. git status et le fichier readme a disparu car il est devenu un commit.
 
-6. git diff renvoie ce qui a été changer dans le fichier mais pas encore devenu commit et --staged renvoie ce qui a été changer quand le fichier est dans la staging area
+6. git diff renvoie ce qui a été changer dans le fichier mais pas encore devenu commit et --staged renvoie ce qui a été changer quand le fichier est dans la staging area.
 
+7. git show nous montre les modifications effectuées sur un fichier, git status les fichiers qui ont été modifié mais pas enregistrer, git diff nous montre plus en détails les modifications effectuées (les lignes supprimées, ajoutées) et git log tous les fichiers sur notre git.
