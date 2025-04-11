@@ -18,7 +18,9 @@
 
 11. pour vérifier les ajouts on utilise la commande git status et pour vérifier les commits la commande git log pour voir tout les commits effectuers
 
+12. git log --branches --not --remotes nous montre les commit qui n'ont pas été push donc s'il n'y a rien tout a bien fonctionner
 
+13. git clone <lien du projet>
 
-
+14. ls dans le fichier cloner pour voir qu'il n'y qu'un seul fichier README.md
 
