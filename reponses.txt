@@ -24,3 +24,4 @@
 
 14. ls dans le fichier cloner pour voir qu'il n'y qu'un seul fichier README.md
 
+15. avec git diff <hash1> <hash2> on peut voir que deux lignes ont été ajoutées et qu'entre les deux premiers commit une ligne a été rajoutées et deux ont été supprimer
