@@ -9,3 +9,8 @@
 6. git diff renvoie ce qui a été changer dans le fichier mais pas encore devenu commit et --staged renvoie ce qui a été changer quand le fichier est dans la staging area.
 
 7. git show nous montre les modifications effectuées sur un fichier, git status les fichiers qui ont été modifié mais pas enregistrer, git diff nous montre plus en détails les modifications effectuées (les lignes supprimées, ajoutées) et git log tous les fichiers sur notre git.
+
+8. git status nous montre que les deux fichiers ont été ajoutés mais pas commiter en vert
+
+9. git reset enlève le fichier ajouté de la staging area et le remet dans le working directory
+10. la commande a utiliser est git status et après le commit du fichier elle nous affiche que le fichier n'est plus dans la staging area
